@@ -1,0 +1,14 @@
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Divisao\Divisao\bin\Debug\net8.0\Divisao.exe
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Divisao\Divisao\bin\Debug\net8.0\Divisao.deps.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Divisao\Divisao\bin\Debug\net8.0\Divisao.runtimeconfig.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Divisao\Divisao\bin\Debug\net8.0\Divisao.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Divisao\Divisao\bin\Debug\net8.0\Divisao.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Divisao\Divisao\obj\Debug\net8.0\Divisao.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Divisao\Divisao\obj\Debug\net8.0\Divisao.AssemblyInfoInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Divisao\Divisao\obj\Debug\net8.0\Divisao.AssemblyInfo.cs
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Divisao\Divisao\obj\Debug\net8.0\Divisao.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Divisao\Divisao\obj\Debug\net8.0\Divisao.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Divisao\Divisao\obj\Debug\net8.0\refint\Divisao.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Divisao\Divisao\obj\Debug\net8.0\Divisao.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Divisao\Divisao\obj\Debug\net8.0\Divisao.genruntimeconfig.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Divisao\Divisao\obj\Debug\net8.0\ref\Divisao.dll

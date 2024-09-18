@@ -1,0 +1,14 @@
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\FuncaoMulti\FuncaoMulti\bin\Debug\net8.0\FuncaoMulti.exe
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\FuncaoMulti\FuncaoMulti\bin\Debug\net8.0\FuncaoMulti.deps.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\FuncaoMulti\FuncaoMulti\bin\Debug\net8.0\FuncaoMulti.runtimeconfig.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\FuncaoMulti\FuncaoMulti\bin\Debug\net8.0\FuncaoMulti.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\FuncaoMulti\FuncaoMulti\bin\Debug\net8.0\FuncaoMulti.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\FuncaoMulti\FuncaoMulti\obj\Debug\net8.0\FuncaoMulti.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\FuncaoMulti\FuncaoMulti\obj\Debug\net8.0\FuncaoMulti.AssemblyInfoInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\FuncaoMulti\FuncaoMulti\obj\Debug\net8.0\FuncaoMulti.AssemblyInfo.cs
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\FuncaoMulti\FuncaoMulti\obj\Debug\net8.0\FuncaoMulti.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\FuncaoMulti\FuncaoMulti\obj\Debug\net8.0\FuncaoMulti.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\FuncaoMulti\FuncaoMulti\obj\Debug\net8.0\refint\FuncaoMulti.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\FuncaoMulti\FuncaoMulti\obj\Debug\net8.0\FuncaoMulti.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\FuncaoMulti\FuncaoMulti\obj\Debug\net8.0\FuncaoMulti.genruntimeconfig.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\FuncaoMulti\FuncaoMulti\obj\Debug\net8.0\ref\FuncaoMulti.dll

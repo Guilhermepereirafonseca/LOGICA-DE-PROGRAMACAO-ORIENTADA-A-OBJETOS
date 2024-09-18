@@ -1,0 +1,14 @@
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Multiplicacao\Multiplicacao\bin\Debug\net8.0\Multiplicacao.exe
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Multiplicacao\Multiplicacao\bin\Debug\net8.0\Multiplicacao.deps.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Multiplicacao\Multiplicacao\bin\Debug\net8.0\Multiplicacao.runtimeconfig.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Multiplicacao\Multiplicacao\bin\Debug\net8.0\Multiplicacao.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Multiplicacao\Multiplicacao\bin\Debug\net8.0\Multiplicacao.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Multiplicacao\Multiplicacao\obj\Debug\net8.0\Multiplicacao.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Multiplicacao\Multiplicacao\obj\Debug\net8.0\Multiplicacao.AssemblyInfoInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Multiplicacao\Multiplicacao\obj\Debug\net8.0\Multiplicacao.AssemblyInfo.cs
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Multiplicacao\Multiplicacao\obj\Debug\net8.0\Multiplicacao.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Multiplicacao\Multiplicacao\obj\Debug\net8.0\Multiplicacao.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Multiplicacao\Multiplicacao\obj\Debug\net8.0\refint\Multiplicacao.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Multiplicacao\Multiplicacao\obj\Debug\net8.0\Multiplicacao.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Multiplicacao\Multiplicacao\obj\Debug\net8.0\Multiplicacao.genruntimeconfig.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\Multiplicacao\Multiplicacao\obj\Debug\net8.0\ref\Multiplicacao.dll

@@ -1,0 +1,14 @@
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 08_Const_PI\Aula 08_Const_PI\bin\Debug\net8.0\Aula 08_Const_PI.exe
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 08_Const_PI\Aula 08_Const_PI\bin\Debug\net8.0\Aula 08_Const_PI.deps.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 08_Const_PI\Aula 08_Const_PI\bin\Debug\net8.0\Aula 08_Const_PI.runtimeconfig.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 08_Const_PI\Aula 08_Const_PI\bin\Debug\net8.0\Aula 08_Const_PI.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 08_Const_PI\Aula 08_Const_PI\bin\Debug\net8.0\Aula 08_Const_PI.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 08_Const_PI\Aula 08_Const_PI\obj\Debug\net8.0\Aula 08_Const_PI.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 08_Const_PI\Aula 08_Const_PI\obj\Debug\net8.0\Aula 08_Const_PI.AssemblyInfoInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 08_Const_PI\Aula 08_Const_PI\obj\Debug\net8.0\Aula 08_Const_PI.AssemblyInfo.cs
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 08_Const_PI\Aula 08_Const_PI\obj\Debug\net8.0\Aula 08_Const_PI.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 08_Const_PI\Aula 08_Const_PI\obj\Debug\net8.0\Aula 08_Const_PI.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 08_Const_PI\Aula 08_Const_PI\obj\Debug\net8.0\refint\Aula 08_Const_PI.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 08_Const_PI\Aula 08_Const_PI\obj\Debug\net8.0\Aula 08_Const_PI.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 08_Const_PI\Aula 08_Const_PI\obj\Debug\net8.0\Aula 08_Const_PI.genruntimeconfig.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 08_Const_PI\Aula 08_Const_PI\obj\Debug\net8.0\ref\Aula 08_Const_PI.dll

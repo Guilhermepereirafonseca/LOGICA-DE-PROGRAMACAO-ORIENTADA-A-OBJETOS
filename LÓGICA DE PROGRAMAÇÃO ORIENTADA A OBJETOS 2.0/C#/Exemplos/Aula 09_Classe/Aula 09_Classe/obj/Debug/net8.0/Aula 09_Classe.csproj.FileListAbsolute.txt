@@ -1,0 +1,14 @@
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 09_Classe\Aula 09_Classe\bin\Debug\net8.0\Aula 09_Classe.exe
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 09_Classe\Aula 09_Classe\bin\Debug\net8.0\Aula 09_Classe.deps.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 09_Classe\Aula 09_Classe\bin\Debug\net8.0\Aula 09_Classe.runtimeconfig.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 09_Classe\Aula 09_Classe\bin\Debug\net8.0\Aula 09_Classe.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 09_Classe\Aula 09_Classe\bin\Debug\net8.0\Aula 09_Classe.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 09_Classe\Aula 09_Classe\obj\Debug\net8.0\Aula 09_Classe.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 09_Classe\Aula 09_Classe\obj\Debug\net8.0\Aula 09_Classe.AssemblyInfoInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 09_Classe\Aula 09_Classe\obj\Debug\net8.0\Aula 09_Classe.AssemblyInfo.cs
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 09_Classe\Aula 09_Classe\obj\Debug\net8.0\Aula 09_Classe.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 09_Classe\Aula 09_Classe\obj\Debug\net8.0\Aula 09_Classe.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 09_Classe\Aula 09_Classe\obj\Debug\net8.0\refint\Aula 09_Classe.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 09_Classe\Aula 09_Classe\obj\Debug\net8.0\Aula 09_Classe.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 09_Classe\Aula 09_Classe\obj\Debug\net8.0\Aula 09_Classe.genruntimeconfig.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 09_Classe\Aula 09_Classe\obj\Debug\net8.0\ref\Aula 09_Classe.dll

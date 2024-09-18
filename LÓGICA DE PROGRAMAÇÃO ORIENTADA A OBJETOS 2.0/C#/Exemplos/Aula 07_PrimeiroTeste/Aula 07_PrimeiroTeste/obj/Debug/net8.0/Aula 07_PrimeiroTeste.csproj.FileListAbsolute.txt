@@ -1,0 +1,14 @@
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_PrimeiroTeste\Aula 07_PrimeiroTeste\bin\Debug\net8.0\Aula 07_PrimeiroTeste.exe
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_PrimeiroTeste\Aula 07_PrimeiroTeste\bin\Debug\net8.0\Aula 07_PrimeiroTeste.deps.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_PrimeiroTeste\Aula 07_PrimeiroTeste\bin\Debug\net8.0\Aula 07_PrimeiroTeste.runtimeconfig.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_PrimeiroTeste\Aula 07_PrimeiroTeste\bin\Debug\net8.0\Aula 07_PrimeiroTeste.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_PrimeiroTeste\Aula 07_PrimeiroTeste\bin\Debug\net8.0\Aula 07_PrimeiroTeste.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_PrimeiroTeste\Aula 07_PrimeiroTeste\obj\Debug\net8.0\Aula 07_PrimeiroTeste.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_PrimeiroTeste\Aula 07_PrimeiroTeste\obj\Debug\net8.0\Aula 07_PrimeiroTeste.AssemblyInfoInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_PrimeiroTeste\Aula 07_PrimeiroTeste\obj\Debug\net8.0\Aula 07_PrimeiroTeste.AssemblyInfo.cs
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_PrimeiroTeste\Aula 07_PrimeiroTeste\obj\Debug\net8.0\Aula 07_PrimeiroTeste.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_PrimeiroTeste\Aula 07_PrimeiroTeste\obj\Debug\net8.0\Aula 07_PrimeiroTeste.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_PrimeiroTeste\Aula 07_PrimeiroTeste\obj\Debug\net8.0\refint\Aula 07_PrimeiroTeste.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_PrimeiroTeste\Aula 07_PrimeiroTeste\obj\Debug\net8.0\Aula 07_PrimeiroTeste.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_PrimeiroTeste\Aula 07_PrimeiroTeste\obj\Debug\net8.0\Aula 07_PrimeiroTeste.genruntimeconfig.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_PrimeiroTeste\Aula 07_PrimeiroTeste\obj\Debug\net8.0\ref\Aula 07_PrimeiroTeste.dll

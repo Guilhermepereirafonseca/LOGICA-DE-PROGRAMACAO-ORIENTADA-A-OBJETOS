@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\servidor\\alunos\\Guilherme Pereira Fonseca\\L\u00D3GICA DE PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS 2.0\\C#\\Exemplos\\Aula 08_Soma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F416A48-8097-4CD9-A771-5DE0450AB21D}|Aula 08_Soma\\Aula 08_Soma.csproj|\\\\servidor\\alunos\\guilherme pereira fonseca\\l\u00F3gica de programa\u00E7\u00E3o orientada a objetos 2.0\\c#\\exemplos\\aula 08_soma\\aula 08_soma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\servidor\\alunos\\Guilherme Pereira Fonseca\\L\u00D3GICA DE PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS 2.0\\C#\\Exemplos\\Aula 08_Soma\\Aula 08_Soma\\Program.cs",
+              "RelativeDocumentMoniker": "Aula 08_Soma\\Program.cs",
+              "ToolTip": "\\\\servidor\\alunos\\Guilherme Pereira Fonseca\\L\u00D3GICA DE PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS 2.0\\C#\\Exemplos\\Aula 08_Soma\\Aula 08_Soma\\Program.cs",
+              "RelativeToolTip": "Aula 08_Soma\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:06:46.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

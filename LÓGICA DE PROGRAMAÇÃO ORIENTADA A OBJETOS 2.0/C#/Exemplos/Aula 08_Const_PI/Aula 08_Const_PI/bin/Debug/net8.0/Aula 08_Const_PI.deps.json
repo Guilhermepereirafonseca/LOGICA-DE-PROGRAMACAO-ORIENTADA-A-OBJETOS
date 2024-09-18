@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula 08_Const_PI/1.0.0": {
+        "runtime": {
+          "Aula 08_Const_PI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula 08_Const_PI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

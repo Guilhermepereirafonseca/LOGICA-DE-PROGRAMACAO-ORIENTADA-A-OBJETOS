@@ -1,0 +1,14 @@
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\umOtimoDia\umOtimoDia\bin\Debug\net8.0\umOtimoDia.exe
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\umOtimoDia\umOtimoDia\bin\Debug\net8.0\umOtimoDia.deps.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\umOtimoDia\umOtimoDia\bin\Debug\net8.0\umOtimoDia.runtimeconfig.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\umOtimoDia\umOtimoDia\bin\Debug\net8.0\umOtimoDia.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\umOtimoDia\umOtimoDia\bin\Debug\net8.0\umOtimoDia.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\umOtimoDia\umOtimoDia\obj\Debug\net8.0\umOtimoDia.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\umOtimoDia\umOtimoDia\obj\Debug\net8.0\umOtimoDia.AssemblyInfoInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\umOtimoDia\umOtimoDia\obj\Debug\net8.0\umOtimoDia.AssemblyInfo.cs
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\umOtimoDia\umOtimoDia\obj\Debug\net8.0\umOtimoDia.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\umOtimoDia\umOtimoDia\obj\Debug\net8.0\umOtimoDia.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\umOtimoDia\umOtimoDia\obj\Debug\net8.0\refint\umOtimoDia.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\umOtimoDia\umOtimoDia\obj\Debug\net8.0\umOtimoDia.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\umOtimoDia\umOtimoDia\obj\Debug\net8.0\umOtimoDia.genruntimeconfig.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\umOtimoDia\umOtimoDia\obj\Debug\net8.0\ref\umOtimoDia.dll

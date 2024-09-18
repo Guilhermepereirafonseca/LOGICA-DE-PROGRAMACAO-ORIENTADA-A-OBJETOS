@@ -1,0 +1,14 @@
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\recebeMeuNome\recebeMeuNome\bin\Debug\net8.0\recebeMeuNome.exe
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\recebeMeuNome\recebeMeuNome\bin\Debug\net8.0\recebeMeuNome.deps.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\recebeMeuNome\recebeMeuNome\bin\Debug\net8.0\recebeMeuNome.runtimeconfig.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\recebeMeuNome\recebeMeuNome\bin\Debug\net8.0\recebeMeuNome.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\recebeMeuNome\recebeMeuNome\bin\Debug\net8.0\recebeMeuNome.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\recebeMeuNome\recebeMeuNome\obj\Debug\net8.0\recebeMeuNome.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\recebeMeuNome\recebeMeuNome\obj\Debug\net8.0\recebeMeuNome.AssemblyInfoInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\recebeMeuNome\recebeMeuNome\obj\Debug\net8.0\recebeMeuNome.AssemblyInfo.cs
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\recebeMeuNome\recebeMeuNome\obj\Debug\net8.0\recebeMeuNome.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\recebeMeuNome\recebeMeuNome\obj\Debug\net8.0\recebeMeuNome.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\recebeMeuNome\recebeMeuNome\obj\Debug\net8.0\refint\recebeMeuNome.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\recebeMeuNome\recebeMeuNome\obj\Debug\net8.0\recebeMeuNome.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\recebeMeuNome\recebeMeuNome\obj\Debug\net8.0\recebeMeuNome.genruntimeconfig.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exercicios\recebeMeuNome\recebeMeuNome\obj\Debug\net8.0\ref\recebeMeuNome.dll

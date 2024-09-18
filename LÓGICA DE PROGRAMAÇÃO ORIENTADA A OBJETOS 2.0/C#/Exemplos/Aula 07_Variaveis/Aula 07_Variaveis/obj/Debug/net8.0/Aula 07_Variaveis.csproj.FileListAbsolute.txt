@@ -1,0 +1,14 @@
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_Variaveis\Aula 07_Variaveis\obj\Debug\net8.0\Aula 07_Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_Variaveis\Aula 07_Variaveis\obj\Debug\net8.0\Aula 07_Variaveis.AssemblyInfoInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_Variaveis\Aula 07_Variaveis\obj\Debug\net8.0\Aula 07_Variaveis.AssemblyInfo.cs
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_Variaveis\Aula 07_Variaveis\obj\Debug\net8.0\Aula 07_Variaveis.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_Variaveis\Aula 07_Variaveis\bin\Debug\net8.0\Aula 07_Variaveis.exe
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_Variaveis\Aula 07_Variaveis\bin\Debug\net8.0\Aula 07_Variaveis.deps.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_Variaveis\Aula 07_Variaveis\bin\Debug\net8.0\Aula 07_Variaveis.runtimeconfig.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_Variaveis\Aula 07_Variaveis\bin\Debug\net8.0\Aula 07_Variaveis.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_Variaveis\Aula 07_Variaveis\bin\Debug\net8.0\Aula 07_Variaveis.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_Variaveis\Aula 07_Variaveis\obj\Debug\net8.0\Aula 07_Variaveis.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_Variaveis\Aula 07_Variaveis\obj\Debug\net8.0\refint\Aula 07_Variaveis.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_Variaveis\Aula 07_Variaveis\obj\Debug\net8.0\Aula 07_Variaveis.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_Variaveis\Aula 07_Variaveis\obj\Debug\net8.0\Aula 07_Variaveis.genruntimeconfig.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 07_Variaveis\Aula 07_Variaveis\obj\Debug\net8.0\ref\Aula 07_Variaveis.dll
