@@ -1,0 +1,14 @@
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 11_Herança\Aula 11_Herança\obj\Debug\net8.0\Aula 11_Herança.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 11_Herança\Aula 11_Herança\obj\Debug\net8.0\Aula 11_Herança.AssemblyInfoInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 11_Herança\Aula 11_Herança\obj\Debug\net8.0\Aula 11_Herança.AssemblyInfo.cs
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 11_Herança\Aula 11_Herança\obj\Debug\net8.0\Aula 11_Herança.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 11_Herança\Aula 11_Herança\bin\Debug\net8.0\Aula 11_Herança.exe
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 11_Herança\Aula 11_Herança\bin\Debug\net8.0\Aula 11_Herança.deps.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 11_Herança\Aula 11_Herança\bin\Debug\net8.0\Aula 11_Herança.runtimeconfig.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 11_Herança\Aula 11_Herança\bin\Debug\net8.0\Aula 11_Herança.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 11_Herança\Aula 11_Herança\bin\Debug\net8.0\Aula 11_Herança.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 11_Herança\Aula 11_Herança\obj\Debug\net8.0\Aula 11_Herança.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 11_Herança\Aula 11_Herança\obj\Debug\net8.0\refint\Aula 11_Herança.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 11_Herança\Aula 11_Herança\obj\Debug\net8.0\Aula 11_Herança.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 11_Herança\Aula 11_Herança\obj\Debug\net8.0\Aula 11_Herança.genruntimeconfig.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 11_Herança\Aula 11_Herança\obj\Debug\net8.0\ref\Aula 11_Herança.dll

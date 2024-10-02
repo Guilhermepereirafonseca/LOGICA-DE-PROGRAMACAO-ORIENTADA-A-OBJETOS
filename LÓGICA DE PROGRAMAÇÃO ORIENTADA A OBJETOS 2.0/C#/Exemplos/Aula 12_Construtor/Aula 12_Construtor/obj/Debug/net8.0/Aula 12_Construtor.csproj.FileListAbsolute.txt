@@ -1,0 +1,14 @@
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 12_Construtor\Aula 12_Construtor\obj\Debug\net8.0\Aula 12_Construtor.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 12_Construtor\Aula 12_Construtor\obj\Debug\net8.0\Aula 12_Construtor.AssemblyInfoInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 12_Construtor\Aula 12_Construtor\obj\Debug\net8.0\Aula 12_Construtor.AssemblyInfo.cs
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 12_Construtor\Aula 12_Construtor\obj\Debug\net8.0\Aula 12_Construtor.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 12_Construtor\Aula 12_Construtor\bin\Debug\net8.0\Aula 12_Construtor.exe
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 12_Construtor\Aula 12_Construtor\bin\Debug\net8.0\Aula 12_Construtor.deps.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 12_Construtor\Aula 12_Construtor\bin\Debug\net8.0\Aula 12_Construtor.runtimeconfig.json
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 12_Construtor\Aula 12_Construtor\bin\Debug\net8.0\Aula 12_Construtor.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 12_Construtor\Aula 12_Construtor\bin\Debug\net8.0\Aula 12_Construtor.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 12_Construtor\Aula 12_Construtor\obj\Debug\net8.0\Aula 12_Construtor.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 12_Construtor\Aula 12_Construtor\obj\Debug\net8.0\refint\Aula 12_Construtor.dll
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 12_Construtor\Aula 12_Construtor\obj\Debug\net8.0\Aula 12_Construtor.pdb
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 12_Construtor\Aula 12_Construtor\obj\Debug\net8.0\Aula 12_Construtor.genruntimeconfig.cache
+\\servidor\alunos\Guilherme Pereira Fonseca\LÓGICA DE PROGRAMAÇÃO ORIENTADA A OBJETOS 2.0\C#\Exemplos\Aula 12_Construtor\Aula 12_Construtor\obj\Debug\net8.0\ref\Aula 12_Construtor.dll

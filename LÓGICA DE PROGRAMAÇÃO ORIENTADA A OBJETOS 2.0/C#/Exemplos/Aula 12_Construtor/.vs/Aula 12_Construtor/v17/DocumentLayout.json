@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\servidor\\alunos\\Guilherme Pereira Fonseca\\L\u00D3GICA DE PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS 2.0\\C#\\Exemplos\\Aula 12_Construtor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A409738-C396-4AE9-ABF1-B3E85A8DF4A1}|Aula 12_Construtor\\Aula 12_Construtor.csproj|\\\\servidor\\alunos\\guilherme pereira fonseca\\l\u00F3gica de programa\u00E7\u00E3o orientada a objetos 2.0\\c#\\exemplos\\aula 12_construtor\\aula 12_construtor\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A409738-C396-4AE9-ABF1-B3E85A8DF4A1}|Aula 12_Construtor\\Aula 12_Construtor.csproj|\\\\servidor\\alunos\\guilherme pereira fonseca\\l\u00F3gica de programa\u00E7\u00E3o orientada a objetos 2.0\\c#\\exemplos\\aula 12_construtor\\aula 12_construtor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "\\\\servidor\\alunos\\Guilherme Pereira Fonseca\\L\u00D3GICA DE PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS 2.0\\C#\\Exemplos\\Aula 12_Construtor\\Aula 12_Construtor\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Aula 12_Construtor\\Funcionario.cs",
+              "ToolTip": "\\\\servidor\\alunos\\Guilherme Pereira Fonseca\\L\u00D3GICA DE PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS 2.0\\C#\\Exemplos\\Aula 12_Construtor\\Aula 12_Construtor\\Funcionario.cs",
+              "RelativeToolTip": "Aula 12_Construtor\\Funcionario.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:08:19.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\servidor\\alunos\\Guilherme Pereira Fonseca\\L\u00D3GICA DE PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS 2.0\\C#\\Exemplos\\Aula 12_Construtor\\Aula 12_Construtor\\Program.cs",
+              "RelativeDocumentMoniker": "Aula 12_Construtor\\Program.cs",
+              "ToolTip": "\\\\servidor\\alunos\\Guilherme Pereira Fonseca\\L\u00D3GICA DE PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS 2.0\\C#\\Exemplos\\Aula 12_Construtor\\Aula 12_Construtor\\Program.cs",
+              "RelativeToolTip": "Aula 12_Construtor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:07:01.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
